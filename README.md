@@ -33,7 +33,6 @@ Implements and evaluates various classification models:
 2. Decision Tree Classifier
 3. Gradient Boosting Classifier
 4. Random Forest Classifier
-Generates classification reports and evaluates accuracy for each model.
 
 ## Manual Testing:
 Provides functionality for manual entry of news text for testing against the trained models.
